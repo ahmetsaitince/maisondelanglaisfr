@@ -1,0 +1,7 @@
+[
+    { "id": 1, "text": "Comment tu t'appelles ?", "options": ["Je vais bien", "Je m'appelle Marie", "J'ai 20 ans", "Merci"], "correctIndex": 1 },
+    { "id": 2, "text": "Quel est l'article défini pour 'école' ?", "options": ["Le", "La", "Les", "L'"], "correctIndex": 3 },
+    { "id": 3, "text": "Choisissez la bonne traduction: 'Good morning'", "options": ["Bonsoir", "Bonjour", "Bonne nuit", "Salut"], "correctIndex": 1 },
+    { "id": 4, "text": "Le pluriel de 'cheval' est…", "options": ["chevals", "chevaux", "chevauxs", "chevales"], "correctIndex": 1 },
+    { "id": 5, "text": "La négation de 'je parle' est…", "options": ["je ne parle pas", "je pas parle", "ne je parle pas", "je parle pas ne"], "correctIndex": 0 }
+  ]

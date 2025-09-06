@@ -1,0 +1,100 @@
+{
+    "brand": "English for French Speakers",
+    "nav": {
+      "home": "Home",
+      "videos": "Videos",
+      "quiz": "Quiz",
+      "contact": "Contact"
+    },
+    "lang": "Language",
+    "hero": {
+      "title": "Master English, starting today",
+      "subtitle": "Bite-size lessons, interactive quizzes, and curated videos—designed for French speakers.",
+      "cta_primary": "Start learning",
+      "cta_secondary": "Try a quick quiz"
+    },
+    "badges": {
+      "a1b2": "Covers A1–B2",
+      "minutes": "10-minute lessons",
+      "practice": "Real-life practice"
+    },
+    "value": {
+      "title": "Everything you need to build real English skills",
+      "points": [
+        { "title": "Clear explanations", "desc": "Concepts explained in French with side-by-side English examples." },
+        { "title": "Smart repetition", "desc": "Spaced practice so you remember more with less effort." },
+        { "title": "Native audio", "desc": "Pronunciation tips, minimal pairs, and real accents." },
+        { "title": "Instant feedback", "desc": "Check answers as you go, with hints and corrections." }
+      ]
+    },
+    "how": {
+      "title": "How it works",
+      "steps": [
+        { "title": "Choose your path", "desc": "Start from A1 or take a quick placement quiz." },
+        { "title": "Study in sprints", "desc": "Daily 10–15 minutes: lesson → practice → recap." },
+        { "title": "Track progress", "desc": "Live counters for correct answers and streaks keep you motivated." }
+      ]
+    },
+    "curriculum": {
+      "title": "Mini-curriculum preview",
+      "units": [
+        { "title": "Unit 1 — Basics & Greetings", "bullets": ["Pronouns & to be", "Simple greetings", "Numbers 1–20"] },
+        { "title": "Unit 2 — Everyday Verbs", "bullets": ["Present simple", "Common verb patterns", "Short answers"] },
+        { "title": "Unit 3 — Essential Vocabulary", "bullets": ["Food & ordering", "Directions", "Time & dates"] }
+      ]
+    },
+    "benefits": {
+      "title": "Why learners stick with it",
+      "items": [
+        { "title": "Micro-lessons", "desc": "Each lesson fits a coffee break." },
+        { "title": "Built for French speakers", "desc": "We highlight typical FR→EN mistakes." },
+        { "title": "Videos you can embed", "desc": "Learn with curated YouTube lessons." },
+        { "title": "Quizzes with live score", "desc": "See correct/incorrect instantly." }
+      ]
+    },
+    "faq": {
+      "title": "Frequently asked questions",
+      "q1": "Is it suitable for absolute beginners?",
+      "a1": "Yes. Start at A1 with explanations in French and gradual English exposure.",
+      "q2": "How long should I study each day?",
+      "a2": "10–15 minutes is enough to build a consistent habit.",
+      "q3": "Do I need to pay?",
+      "a3": "You can start for free. Premium content may be added later."
+    },
+    "cta_block": {
+      "title": "Ready to start?",
+      "desc": "Set your daily goal, take your first lesson, and track your progress.",
+      "primary": "Start now",
+      "secondary": "Take a quick quiz"
+    },
+    "newsletter": {
+      "title": "Get one tip per week",
+      "placeholder_email": "Your email",
+      "button": "Subscribe",
+      "note": "No spam. Unsubscribe anytime."
+    },
+    "quiz": {
+      "title": "Quiz",
+      "score": "Score",
+      "of": "of",
+      "next": "Next",
+      "finish": "Finish",
+      "restart": "Restart",
+      "correct": "Correct",
+      "incorrect": "Incorrect"
+    },
+    "videos": {
+      "title": "Lesson Videos",
+      "desc": "Watch the videos below."
+    },
+    "contact": {
+      "title": "Contact",
+      "name": "Full Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send",
+      "fillAllFields": "Please fill in all fields.",
+      "thankYou": "Thank you! Your message has been received."
+    },
+    "footer": { "rights": "All rights reserved." }
+  }

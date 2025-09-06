@@ -1,0 +1,100 @@
+{
+    "brand": "Anglais pour Francophones",
+    "nav": {
+      "home": "Accueil",
+      "videos": "Vidéos",
+      "quiz": "Quiz",
+      "contact": "Contact"
+    },
+    "lang": "Langue",
+    "hero": {
+      "title": "Progressez en anglais dès aujourd’hui",
+      "subtitle": "Leçons courtes, quiz interactifs et vidéos sélectionnées — pensés pour les francophones.",
+      "cta_primary": "Commencer",
+      "cta_secondary": "Essayer un quiz"
+    },
+    "badges": {
+      "a1b2": "A1 à B2",
+      "minutes": "Leçons de 10 min",
+      "practice": "Pratique réelle"
+    },
+    "value": {
+      "title": "Tout pour acquérir un vrai niveau d’anglais",
+      "points": [
+        { "title": "Explications claires", "desc": "Notions expliquées en français avec exemples en anglais." },
+        { "title": "Répétition espacée", "desc": "Mémorisez mieux avec moins d’effort." },
+        { "title": "Audio natif", "desc": "Prononciation, paires minimales et accents authentiques." },
+        { "title": "Retour immédiat", "desc": "Corrections et indices en temps réel." }
+      ]
+    },
+    "how": {
+      "title": "Comment ça marche",
+      "steps": [
+        { "title": "Choisissez votre parcours", "desc": "Commencez au niveau A1 ou faites un test de positionnement." },
+        { "title": "Étudiez en sprints", "desc": "10–15 minutes : leçon → pratique → révision." },
+        { "title": "Suivez vos progrès", "desc": "Compteurs en direct : bonnes réponses et séries quotidiennes." }
+      ]
+    },
+    "curriculum": {
+      "title": "Aperçu du mini-programme",
+      "units": [
+        { "title": "Unité 1 — Bases & salutations", "bullets": ["Pronoms & to be", "Salutations simples", "Nombres 1–20"] },
+        { "title": "Unité 2 — Verbes du quotidien", "bullets": ["Présent simple", "Schémas verbaux fréquents", "Réponses courtes"] },
+        { "title": "Unité 3 — Vocabulaire essentiel", "bullets": ["Nourriture & commande", "Directions", "Heure & dates"] }
+      ]
+    },
+    "benefits": {
+      "title": "Pourquoi on s’y tient",
+      "items": [
+        { "title": "Micro-leçons", "desc": "Chaque leçon tient dans une pause café." },
+        { "title": "Conçu pour les francophones", "desc": "Nous ciblons les erreurs FR→EN typiques." },
+        { "title": "Vidéos intégrables", "desc": "Apprenez avec des vidéos YouTube choisies." },
+        { "title": "Quiz avec score en direct", "desc": "Correct/incorrect affiché instantanément." }
+      ]
+    },
+    "faq": {
+      "title": "Questions fréquentes",
+      "q1": "Convient-il aux grands débutants ?",
+      "a1": "Oui. Démarrez au niveau A1 avec des explications en français.",
+      "q2": "Combien de temps par jour ?",
+      "a2": "10–15 minutes suffisent pour une habitude durable.",
+      "q3": "Faut-il payer ?",
+      "a3": "Vous pouvez commencer gratuitement. Du contenu premium pourra être ajouté."
+    },
+    "cta_block": {
+      "title": "Prêt à commencer ?",
+      "desc": "Fixez un objectif quotidien, lancez votre première leçon et suivez vos progrès.",
+      "primary": "Démarrer maintenant",
+      "secondary": "Faire un quiz rapide"
+    },
+    "newsletter": {
+      "title": "Un conseil par semaine",
+      "placeholder_email": "Votre e-mail",
+      "button": "S'abonner",
+      "note": "Pas de spam. Désinscription à tout moment."
+    },
+    "quiz": {
+      "title": "Quiz",
+      "score": "Score",
+      "of": "sur",
+      "next": "Suivant",
+      "finish": "Terminer",
+      "restart": "Recommencer",
+      "correct": "Correct",
+      "incorrect": "Incorrect"
+    },
+    "videos": {
+      "title": "Vidéos de cours",
+      "desc": "Regardez les vidéos ci-dessous."
+    },
+    "contact": {
+      "title": "Contact",
+      "name": "Nom complet",
+      "email": "E-mail",
+      "message": "Message",
+      "send": "Envoyer",
+      "fillAllFields": "Veuillez remplir tous les champs.",
+      "thankYou": "Merci ! Votre message a été reçu."
+    },
+    "footer": { "rights": "Tous droits réservés." }
+  }
