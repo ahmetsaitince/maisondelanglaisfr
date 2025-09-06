@@ -12,7 +12,9 @@ function changeLang(l) {
 <template>
   <nav class="navbar navbar-expand-lg bg-light border-bottom" aria-label="Main">
     <div class="container">
-      <a class="navbar-brand fw-semibold" @click.prevent="router.push('/')">{{ t('brand') }}</a>
+      <a class="navbar-brand" @click.prevent="router.push('/')">
+        <img src="/mdl_logo.png" alt="Logo" height="32" class="d-inline-block align-text-top">
+      </a>
 
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav"
               aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigation">
